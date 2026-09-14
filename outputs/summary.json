@@ -1,0 +1,15 @@
+{
+  "question_1": {
+    "districts": 20640,
+    "unique_coordinate_pairs": 12590,
+    "duplicate_rows": 0
+  },
+  "question_2_mean_value": 206855.81690891474,
+  "question_10": {
+    "missing_bedrooms": 207,
+    "missing_bedrooms_percent": 1.002906976744186,
+    "income_value_correlation": 0.6880752079585478,
+    "maximum_rooms_per_household": 141.9090909090909,
+    "maximum_people_per_household": 1243.3333333333333
+  }
+}
